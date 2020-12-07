@@ -1,0 +1,68 @@
+*{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: outline;
+    font-style: unset;
+}
+body {
+    min-width: 20px;
+    max-width: 2000px;
+    min-height: 20px;
+    max-height: 700px;
+    background-color: darkviolet;
+}
+h1 {
+    background-color: rgb(53, 170, 216);
+    color: azure;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px 0px 0px 10px;
+}
+legend {
+    background-color: lightseagreen;
+}
+.name {
+text-decoration: lightskyblue;
+padding: 2px auto;
+padding: 5px;
+}
+.form {
+    padding: 10px auto;
+    margin: 10px auto;
+}
+input {
+    padding: 10px auto;
+    margin: 10px auto;
+}
+.mail {
+    padding: 5px;
+  width: 200px;
+}
+.street{
+    width: 400px;
+    padding: 5px;
+}
+button {
+    color:rgb(235, 223, 223);
+    background-color:rgb(96, 218, 255)
+}
+.apply {
+    padding: 10px auto;
+margin: 10x ;    
+}
+fieldset {
+    margin: 10px auto;
+    width: 500px;
+    height: 500px; background-color: lightpink;
+
+}
+.h1 {
+padding: 10px auto;
+}
+
+input:hover {
+    background-color: rgb(218, 152, 233);
+}
+.submit {
+    color: midnightblue;
+}
